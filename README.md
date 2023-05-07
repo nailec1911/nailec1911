@@ -24,7 +24,7 @@ I'm really curious so I love learning new things all the time. Programming is my
 
 
 ## Rapidfire
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 📍Living in Bordeaux, I love to go back to Basque country to have a good time.
 
@@ -38,7 +38,7 @@ I'm really curious so I love learning new things all the time. Programming is my
 - 🧗‍♂️ Rock-climbing enthusiast.
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
