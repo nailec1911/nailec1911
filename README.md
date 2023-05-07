@@ -62,11 +62,17 @@ I'm really curious so I love learning new things all the time. Programming is my
 
 ## Github Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nailec1911&theme=dark&background=000000" align="center" style="width: 50%" />
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nailec1911&count_private=true&theme=dark&show_icons=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nailec1911&locale=fr&mode=daily&theme=dark&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nailec1911&langs_count=10&theme=dark&locale=fr&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nailec1911&show_icons=true&theme=dark&count_private=true&background=000000" align="left" style="width: 50%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailec1911&count_private=true&theme=dark&background=000000" align="right" style="width: 50%" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailec1911&theme=dark&background=000000" align="center" style="width: 50%" /> -->
+<!--  -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nailec1911&show_icons=true&theme=dark&count_private=true&background=000000" align="center" style="width: 50%" /> -->
+<!--  -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailec1911&count_private=true&theme=dark&background=000000" align="center" style="width: 50%" /> -->
 
 <br/>
 
