@@ -61,17 +61,12 @@ I'm really curious so I love learning new things all the time. Programming is my
 
 
 ## Github Stats
-<!-- <table><tr><td valign="top" width="50%"> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nailec1911&theme=dark&background=000000" align="center" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nailec1911&theme=dark&background=000000" align="center" style="width: 50%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nailec1911&show_icons=true&theme=dark&count_private=true&hide_border=true&background=000000" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nailec1911&show_icons=true&theme=dark&count_private=true&background=000000" align="left" style="width: 50%" />
 
-<!-- </td><td valign="top" width="50%"> -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailec1911&count_private=true&theme=dark&layout=compact&background=000000" align="right" style="width: 100%" />
-
-<!-- </td></tr></table> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailec1911&count_private=true&theme=dark&background=000000" align="right" style="width: 50%" />
 
 <br/>
 
