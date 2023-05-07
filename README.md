@@ -24,9 +24,9 @@ I'm really curious so I love learning new things all the time. Programming is my
 
 
 ## Rapidfire
-<table><tr><td valign="top" width="100%">
+<tr><td valign="top" width="100%">
 
-- 📍Living in Bordeaux, I love to go back to Basque country to have a good time.
+- 📍 Living in Bordeaux, I love to go back to Basque country to have a good time.
 
 
 - ✉️ Contact me by e-mail at : celian.lombardot@epitech.eu
@@ -42,7 +42,7 @@ I'm really curious so I love learning new things all the time. Programming is my
 
 
 
-</td></tr></table>
+</td></tr>
 
 <br/>
 
