@@ -16,7 +16,7 @@
 
 
 ### Glad to see you here!
-First year student at Epitech - European Institute of Technology.
+Second year student at Epitech - European Institute of Technology.
 I'm really curious so I love learning new things all the time. Programming is my passion, and I particularly like to solve algorithmic problems.
 
 
