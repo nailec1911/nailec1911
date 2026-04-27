@@ -8,7 +8,7 @@
 
 I'm genuinely passionate about new technologies and love solving hard problems. I especially enjoy working on things that haven't been done before: research problems where the goal is to actually push something forward. I like working on technical topics and exploring cutting-edge stuff.
 
-The classes I loved the most were Quantum Computing, High Performance Computing (we had access to the PerlmutterNERSC !!!) and Embedded Linux Systems (playing around with some Raspberries and sensors).
+The classes I loved the most were Quantum Computing, High Performance Computing (we had access to the PerlmutterNERSC !!!), Algorithm Analysis and Embedded Linux Systems (playing around with some Raspberries and sensors).
 
 I really enjoy low-level. I'm most comfortable with C/C++ and Python, I love how fast it lets you go from idea to working code. I'm currently learning Rust for a project, and I've also done a bit of CUDA (on a supercomputer ;) ).
 
